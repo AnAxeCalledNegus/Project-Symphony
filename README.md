@@ -1,16 +1,23 @@
 AnAxeCalledNegus' Dotfiles
 
-Notice:
-Swaync version needs to be 11.0*
+https://github.com/user-attachments/assets/e1a1dda8-fb0d-4585-af63-48695321ffca
 
-<img width="1920" height="1080" alt="20251218_20h00m04s_grim" src="https://github.com/user-attachments/assets/d16f4198-c59f-4d33-8244-939f433c3b76" />
+<img width="1920" height="1080" alt="20260102_00h43m48s_grim" src="https://github.com/user-attachments/assets/5d29a1a5-b2fa-4b9d-b779-9fcadc7e7d6b" />
 
-<img width="1920" height="1080" alt="20251218_20h03m20s_grim" src="https://github.com/user-attachments/assets/872423a6-b061-4c88-a6dc-87788e6eecd7" />
+<img width="1920" height="1080" alt="20260102_00h44m53s_grim" src="https://github.com/user-attachments/assets/cc9c0cc6-cc04-43f7-8808-04a336f9fb58" />
 
-<img width="833" height="725" alt="20251218_20h05m22s_grim" src="https://github.com/user-attachments/assets/07f1c45a-c688-488b-98d9-809cf0df4779" />
+<img width="522" height="837" alt="20260102_00h45m19s_grim" src="https://github.com/user-attachments/assets/078f588b-1e7d-4aa5-8ba9-b41365bb76c2" />
+
+<img width="880" height="546" alt="20260102_00h46m53s_grim" src="https://github.com/user-attachments/assets/1f635735-9cdc-4c89-8f3a-b02a676360f8" />
+
+<img width="791" height="277" alt="20260102_00h47m09s_grim" src="https://github.com/user-attachments/assets/4b0e1e88-55c2-4d9f-8e5d-33310b363afe" />
 
 
-<img width="557" height="877" alt="20251218_20h00m21s_grim" src="https://github.com/user-attachments/assets/dbc82082-48fd-458e-b004-e711eaf7f559" />
+
+
+
+
+
 
 
 
