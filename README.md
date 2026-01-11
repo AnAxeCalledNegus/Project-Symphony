@@ -1,4 +1,4 @@
-AnAxeCalledNegus' Dotfiles
+**********AnAxeCalledNegus' Dotfiles**********
 
 <img width="1920" height="1080" alt="20260111_19h25m55s_grim" src="https://github.com/user-attachments/assets/6353bf8b-2040-4b4c-a0d3-06cb61407c2c" />
 
