@@ -1,14 +1,12 @@
 AnAxeCalledNegus' Dotfiles
 
-https://github.com/user-attachments/assets/89562845-97e7-4bae-a3f9-ac9f4977933c
+<img width="1920" height="1080" alt="20260111_19h25m55s_grim" src="https://github.com/user-attachments/assets/6353bf8b-2040-4b4c-a0d3-06cb61407c2c" />
 
-<img width="1920" height="1080" alt="20260106_15h46m09s_grim" src="https://github.com/user-attachments/assets/8ed03304-a546-4abd-a7aa-28f86c3115d7" />
+<img width="1920" height="1080" alt="20260111_19h28m31s_grim" src="https://github.com/user-attachments/assets/84c1eb24-c290-4b93-98b6-ff70ead1e2c0" />
 
-<img width="1918" height="1080" alt="20260106_15h48m11s_grim" src="https://github.com/user-attachments/assets/611d799a-a7a8-43b5-8462-76350e7d2ac6" />
+<img width="526" height="836" alt="20260111_19h28m55s_grim" src="https://github.com/user-attachments/assets/494d8e85-7521-4750-b353-334fe5576462" />
 
-<img width="756" height="212" alt="20260106_15h50m36s_grim" src="https://github.com/user-attachments/assets/9a2086fd-8994-41c1-94f2-4fc0a8477720" />
-
-
+<img width="780" height="230" alt="20260111_19h29m06s_grim" src="https://github.com/user-attachments/assets/ed452228-6bb7-432f-b448-d74d7c82967b" />
 
 
 
